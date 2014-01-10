@@ -8,6 +8,23 @@ $var2 = $var = 2;
 $COVA_Limit=200000;
 $COVB_LIMIT=30000;
 
+//Added more variables
+
+$COVA_Limit=200000;
+$COVB_LIMIT=30000;
+
+$COVA_Limit=200000;
+$COVB_LIMIT=30000;
+
+$COVA_Limit=200000;
+$COVB_LIMIT=30000;
+
+$COVA_Limit=200000;
+$COVB_LIMIT=30000;
+
+$COVA_Limit=200000;
+$COVB_LIMIT=30000;
+
 class HelloWorld {
 
 add some methods here...
