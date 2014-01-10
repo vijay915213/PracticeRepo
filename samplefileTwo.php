@@ -1,5 +1,5 @@
 Enter file contents here
-so here is some php code
+so here is some php code - Line of nonsense
 
 $var = $var + $two;
 $var2 = $var = 2;
