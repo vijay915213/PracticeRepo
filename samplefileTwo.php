@@ -7,4 +7,5 @@ class HelloWorld {
 
 add some methods here...
 
+// Added a comment here to test modification of different files at the same time.
 }
