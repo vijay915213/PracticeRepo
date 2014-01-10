@@ -2,6 +2,7 @@ Enter file contents here
 so here is some php code
 
 $var = $var + $two;
+$var2 = $var = 2;
 
 class HelloWorld {
 
