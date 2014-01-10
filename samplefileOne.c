@@ -1,3 +1,4 @@
+#include io.h
 #include stdstr.h
 #include myheader.h
 
