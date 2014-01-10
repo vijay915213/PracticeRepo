@@ -4,6 +4,10 @@ so here is some php code
 $var = $var + $two;
 $var2 = $var = 2;
 
+//Added more variables
+$COVA_Limit=200000;
+$COVB_LIMIT=30000;
+
 class HelloWorld {
 
 add some methods here...
