@@ -1,4 +1,4 @@
-#include stdio.h
+#include stdstr.h
 #include myheader.h
 
 void main(void) {
