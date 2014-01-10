@@ -2,19 +2,19 @@
 #include myheader.h
 
 void main(void) {
-Let us do some stuff here....
-make a function call
+//Let us do some stuff here....
+//make a function call
 hello();
-make another function call
+//make another function call
 world();
 
-do some processing
-okay - are we done ?
+//do some processing
+//okay - are we done ?
 if ( wearedone )
-  get out 
+ // get out 
   exit;
 
-do some thing more
+//do some thing more
 return ;
 }
 
