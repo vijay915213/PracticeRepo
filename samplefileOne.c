@@ -33,10 +33,5 @@ world(string name) {
 throw (exception)
 //too big to process...
 
-////  Adding a comment at the end of this file...
-
 }
-
-// Adding comment at end of file
-
 
