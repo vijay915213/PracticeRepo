@@ -6,7 +6,7 @@ void main(void) {
 //make a function call
 hello();
 //make another function call
-world();
+world(); // Should merge this comment and the parameter added by Vijay
 
 //do some processing
 //okay - are we done ?
