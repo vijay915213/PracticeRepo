@@ -27,7 +27,7 @@ hello() {
 //done processing
 }
 
-world() {
+world(string name) {
 
 throw (exception)
 //too big to process...
