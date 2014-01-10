@@ -4,6 +4,10 @@ so here is some php code
 $var = $var + $two;
 $var2 = $var = 2;
 
+//Added more variables
+$COVA_Limit=200000;
+$COVB_LIMIT=30000;
+
 class HelloWorld {
 
 add some methods here...
@@ -17,6 +21,4 @@ add some methods here...
 // 4th comment
 
 // 5th comment added. Beware! Same file is  being modified!
-
-// 6th comment added. Beware again! Same file is being modified!
 }
